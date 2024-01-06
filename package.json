@@ -1,6 +1,6 @@
 {
   "name": "@datismoa/ts-node",
-  "version": "11.1.0",
+  "version": "11.1.1",
   "description": "TypeScript execution environment and REPL for node.js, with source map support",
   "main": "dist/index.js",
   "exports": {
@@ -84,7 +84,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/TypeStrong/ts-node.git"
+    "url": "git://github.com/datismoa/ts-node.git"
   },
   "keywords": [
     "typescript",
@@ -104,13 +104,16 @@
       "name": "Andrew Bradley",
       "email": "cspotcode@gmail.com",
       "url": "https://github.com/cspotcode"
+    },
+    {
+      "name": "datismoa",
+      "url": "https://github.com/datismoa"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TypeStrong/ts-node/issues"
+    "url": "https://github.com/datismoa/ts-node/issues"
   },
-  "homepage": "https://typestrong.org/ts-node",
   "devDependencies": {
     "@TypeStrong/fs-fixture-builder": "https://github.com/Typestrong/fs-fixture-builder.git#3099e53621daf99db971af29c96145dc115693cd",
     "@cspotcode/ava-lib": "https://github.com/cspotcode/ava-lib#805aab17b2b89c388596b6dc2b4eece403c5fb87",
